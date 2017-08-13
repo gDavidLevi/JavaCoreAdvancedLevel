@@ -1,0 +1,1 @@
+Далее разработка сетевого чата ведется в проекте https://github.com/gDavidLevy/JavaCoreAdvancedLevelChat
