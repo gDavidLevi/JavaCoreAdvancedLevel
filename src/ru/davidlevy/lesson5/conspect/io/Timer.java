@@ -1,4 +1,4 @@
-package ru.davidlevy.lesson5.io;
+package ru.davidlevy.lesson5.conspect.io;
 
 final class Timer {
     private static long startTime;

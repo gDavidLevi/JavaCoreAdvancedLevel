@@ -1,8 +1,7 @@
-package ru.davidlevy.lesson5.io;
+package ru.davidlevy.lesson5.conspect.io;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.RandomAccessFile;
 
 public class FileStream {
     public static void main(String[] args) throws Exception {

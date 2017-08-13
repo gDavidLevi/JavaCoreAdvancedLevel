@@ -1,4 +1,4 @@
-package ru.davidlevy.lesson5.multithreading;
+package ru.davidlevy.lesson5.conspect.multithreading;
 
 public class MainClass3 {
     private static synchronized void methodSynchronized() {

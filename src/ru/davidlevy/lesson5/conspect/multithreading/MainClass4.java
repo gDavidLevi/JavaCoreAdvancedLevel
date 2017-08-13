@@ -1,4 +1,4 @@
-package ru.davidlevy.lesson5.multithreading;
+package ru.davidlevy.lesson5.conspect.multithreading;
 
 public class MainClass4 {
     // Синхронизированная переменная на чтение и запись

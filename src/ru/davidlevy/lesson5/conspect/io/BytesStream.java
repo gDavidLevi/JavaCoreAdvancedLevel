@@ -1,7 +1,6 @@
-package ru.davidlevy.lesson5.io;
+package ru.davidlevy.lesson5.conspect.io;
 
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
