@@ -1,4 +1,5 @@
 # Geek University Android
+## 1 семестр
 ## Java Core. Продвинутый уровень
 13 июля 2017 MSK (UTC+3)
 
